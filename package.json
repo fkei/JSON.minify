@@ -34,7 +34,8 @@
     "os": [
         "darwin",
         "linux",
-        "win32"
+        "win32",
+        "sunos"
     ],
     "main": "./minify.json.js"
 }
