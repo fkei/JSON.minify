@@ -31,11 +31,5 @@
         "node": ">=0.8.0",
         "npm": ">=1.1.0"
     },
-    "os": [
-        "darwin",
-        "linux",
-        "win32",
-        "sunos"
-    ],
     "main": "./minify.json.js"
 }
